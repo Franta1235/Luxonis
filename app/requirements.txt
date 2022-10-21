@@ -1,0 +1,9 @@
+sqlalchemy
+psycopg2
+selenium
+webdriver_manager
+bs4
+pandas
+packaging
+lxml
+flask
